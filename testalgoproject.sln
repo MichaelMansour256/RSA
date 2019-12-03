@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testalgoproject", "testalgoproject\testalgoproject.csproj", "{F879C04E-1972-4462-91C6-1B8D62B3D3DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F879C04E-1972-4462-91C6-1B8D62B3D3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F879C04E-1972-4462-91C6-1B8D62B3D3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F879C04E-1972-4462-91C6-1B8D62B3D3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F879C04E-1972-4462-91C6-1B8D62B3D3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77CAEBF4-C10E-4175-AA8E-ABFE8496E4E6}
+	EndGlobalSection
+EndGlobal
